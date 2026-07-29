@@ -4,7 +4,7 @@
   "apt": ["lua5.4", "nano"],
   "pacman": ["lua", "nano"],
   "dnf": ["lua", "nano"],
-  "casata": [],
+  "casata": ["lyndsfetch"],
   "pip": [],
   "size": "136.3 KiB",
   "description": "Dailution, un frontend de shell escrito en Lua.",
