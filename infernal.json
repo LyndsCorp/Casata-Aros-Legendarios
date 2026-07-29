@@ -1,12 +1,12 @@
 {
   "name": "infernal",
-  "version": "1.6",
+  "version": "1.8",
   "apt": [],
   "pacman": [],
   "dnf": [],
   "casata": [],
   "pip": [],
-  "size": "251.8 KiB",
+  "size": "258,6 KiB",
   "description": "Infernal, un lenguaje de programación inspirado en Lua + Bash + Python. Es muy bueno para automatización.",
   "usage": "Ejecuta infernal SCRIPT.inf y ejecutas ese script con Infernal."
 }
