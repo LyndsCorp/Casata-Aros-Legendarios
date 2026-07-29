@@ -1,4 +1,8 @@
 # Casata-Aros-Legendarios
-Repositorio oficial del proyecto de los Aros Legendarios para Casata. Mantenido por David Baña Szymaniak.
+Metarepo oficial del proyecto de los Aros Legendarios para Casata.
 
-Estas apps son más "secundarias" que las de LYNDS Project o de Monojo Project y tienen más filosofía detrás.
+Infernal               -> github.com/LyndsCorp/Casata-Infernal
+Infernal-PseudoShell   -> github.com/LyndsCorp/Casata-Infernal-PseudoShell
+FE                     -> github.com/LyndsCorp/Casata-FE
+
+Mantenido por David Baña Szymaniak.
