@@ -1,7 +1,7 @@
 {
   "name": "Aros-Legendarios",
   "metarepo": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/METAREPO",
-  "dailution": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Dailution.json",
+  "dailution-ui": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Dailution-UI.json",
   "infernal": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Infernal.json",
   "fe": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/FE.json"
 }
