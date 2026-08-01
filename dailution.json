@@ -1,12 +1,12 @@
 {
-  "name": "dailution",
+  "name": "dailution-ui",
   "version": "1.3",
   "apt": ["lua5.4", "nano"],
   "pacman": ["lua", "nano"],
   "dnf": ["lua", "nano"],
-  "casata": ["lyndsfetch"],
+  "casata": [],
   "pip": [],
   "size": "136.3 KiB",
-  "description": "Dailution, un frontend de shell escrito en Lua.",
-  "usage": "Ejecuta dailution para abrirlo. Si lo quieres que se abra automaticamente al iniciar una terminal, añade en el final del archivo ~/.bashrc el texto dailution"
+  "description": "Dailution-UI, un frontend de shell escrito en Lua.",
+  "usage": "Ejecuta dailution-ui para abrirlo. Si lo quieres que se abra automaticamente al iniciar una terminal, añade en el final del archivo ~/.bashrc el texto dailution-ui"
 }
