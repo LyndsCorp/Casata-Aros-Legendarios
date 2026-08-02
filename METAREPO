@@ -3,5 +3,6 @@
   "metarepo": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/METAREPO",
   "dailution-ui": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Dailution-UI.json",
   "infernal": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Infernal.json",
+  "dailution": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/Dailution.json",
   "fe": "https://raw.githubusercontent.com/LyndsCorp/Casata-Aros-Legendarios/main/FE.json"
 }
