@@ -1,0 +1,12 @@
+{
+  "name": "dailution",
+  "version": "1.0",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "30,6 KiB",
+  "description": "Dailution, un shell mínimo para ejecutar comandos, no ejecutar scripts.",
+  "usage": "Ejecuta dailution para abrir el shell. dailution -c 'comando' para ejecutar comandos sin abrir el shell."
+}
